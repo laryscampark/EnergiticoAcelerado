@@ -29,3 +29,8 @@ Total Geral:    R$ 4.468,49
 Esta empresa, deseja dar uma bonificação/desconto, mas não sabe como bonificar os clientes que compraram grandes quantidades.
 Como questão bônus (não obrigatória), você pode sugerir um algoritmo para ajudar a bonificar os clientes.
 
+
+## RESOLUÇÃO
+
+A linguagem utilizada foi em Java, usando cálculos básicos para obter os resultados, os imposto por serem fixos não se teve a necessidade da entrada dos dados dele assim como o valor unitário, únicas entradas são o nome e o valor da entrada de quantidades.
+

@@ -34,3 +34,5 @@ Como questão bônus (não obrigatória), você pode sugerir um algoritmo para a
 
 A linguagem utilizada foi em Java, usando cálculos básicos para obter os resultados, os imposto por serem fixos não se teve a necessidade da entrada dos dados dele assim como o valor unitário, únicas entradas são o nome e o valor da entrada de quantidades.
 
+## RESULTADO 
+![Capturar](https://user-images.githubusercontent.com/68935244/125813321-b5a16b27-e6f9-4051-afe7-063370fa67ab.PNG)
